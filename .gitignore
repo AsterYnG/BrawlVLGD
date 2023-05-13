@@ -1,0 +1,13 @@
+/*
+!/content
+/content/*
+!/content/dota_addons/
+/content/dota_addons/*
+!/content/dota_addons/VolgodonskBrawl/
+!/game
+/game/*
+!/game/dota_addons/
+/game/dota_addons/*
+!/game/dota_addons/VolgodonskBrawl/
+!.gitignore
+/content/dota_addons/VolgodonskBrawl/materials/models/courier/lockjaw/*.psd

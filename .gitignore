@@ -3,11 +3,11 @@
 /content/*
 !/content/dota_addons/
 /content/dota_addons/*
-!/content/dota_addons/VolgodonskBrawl/
+!/content/dota_addons/volgodonsk_brawl/
 !/game
 /game/*
 !/game/dota_addons/
 /game/dota_addons/*
-!/game/dota_addons/VolgodonskBrawl/
+!/game/dota_addons/volgodonsk_brawl/
 !.gitignore
-/content/dota_addons/VolgodonskBrawl/materials/models/courier/lockjaw/*.psd
+/content/dota_addons/volgodonsk_brawl/materials/models/courier/lockjaw/*.psd
